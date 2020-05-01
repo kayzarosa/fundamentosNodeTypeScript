@@ -14,7 +14,6 @@ Nesse desafio aprendemos a trabalhar com TypeScript e a trabalhar com a metodolo
 Esse desafio consiste em salvar as tramsações financeiras de entra e de saída, aplicando alguams regras de negócio que não permite que nenhuma retirada seja feita se houver saldo suficiente para isso.
 
 ![fundamentoNode](https://user-images.githubusercontent.com/20192309/80778057-82af1680-8b3d-11ea-89b6-47809ae88d29.png)
-)
 
 ## Versão
 
@@ -38,7 +37,7 @@ Adicionar uma nova transação financeira com método POST, chame a URL http://l
 
 Corpo da requisição:
 
-Utilizando type como "income" para entradas de dinheiro e "outcome" para retirada de dinheiro
+Utilizando type como "income" para entradas e "outcome" para saídas de dinheiro
 
 JSON
 
