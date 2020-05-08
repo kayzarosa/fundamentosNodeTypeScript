@@ -28,7 +28,7 @@ yarn
 ## Iniciar uma API
 
 ````sh
-yarn dev
+yarn dev:server
 ````
 
 ## Usando a API
